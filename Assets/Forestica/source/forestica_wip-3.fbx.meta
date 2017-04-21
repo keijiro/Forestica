@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 370a262d25e00f149805de48989255af
+timeCreated: 1492741238
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CoarseBristles_geo
+    100002: DoubleTaperedMarker_geo
+    100004: DoubleTaperedMarker_geo_MeshPart0
+    100006: DoubleTaperedMarker_geo_MeshPart1
+    100008: Electricity_geo
+    100010: Fire_geo
+    100012: //RootNode
+    100014: Highlighter_geo
+    100016: HyperGrid_geo
+    100018: HyperGrid_geo_MeshPart0
+    100020: HyperGrid_geo_MeshPart1
+    100022: Light_geo
+    100024: Marker_geo
+    100026: NeonPulse_geo
+    100028: SoftHighlighter_geo
+    100030: SoftHighlighter_geo_MeshPart0
+    100032: SoftHighlighter_geo_MeshPart1
+    100034: Splatter_geo
+    100036: Splatter_geo_MeshPart0
+    100038: Splatter_geo_MeshPart1
+    100040: Streamers_geo
+    100042: TaperedMarker_geo
+    100044: TaperedMarker_geo_MeshPart0
+    100046: TaperedMarker_geo_MeshPart1
+    100048: TaperedMarker_geo_MeshPart2
+    100050: TaperedMarker_geo_MeshPart3
+    100052: TaperedMarker_geo_MeshPart4
+    100054: TaperedMarker_geo_MeshPart5
+    100056: TaperedMarker_geo_MeshPart6
+    100058: TaperedMarker_geo_MeshPart7
+    100060: TaperedMarker_geo_MeshPart8
+    100062: TaperedMarker_geo_MeshPart9
+    100064: Waveform_geo
+    400000: CoarseBristles_geo
+    400002: DoubleTaperedMarker_geo
+    400004: DoubleTaperedMarker_geo_MeshPart0
+    400006: DoubleTaperedMarker_geo_MeshPart1
+    400008: Electricity_geo
+    400010: Fire_geo
+    400012: //RootNode
+    400014: Highlighter_geo
+    400016: HyperGrid_geo
+    400018: HyperGrid_geo_MeshPart0
+    400020: HyperGrid_geo_MeshPart1
+    400022: Light_geo
+    400024: Marker_geo
+    400026: NeonPulse_geo
+    400028: SoftHighlighter_geo
+    400030: SoftHighlighter_geo_MeshPart0
+    400032: SoftHighlighter_geo_MeshPart1
+    400034: Splatter_geo
+    400036: Splatter_geo_MeshPart0
+    400038: Splatter_geo_MeshPart1
+    400040: Streamers_geo
+    400042: TaperedMarker_geo
+    400044: TaperedMarker_geo_MeshPart0
+    400046: TaperedMarker_geo_MeshPart1
+    400048: TaperedMarker_geo_MeshPart2
+    400050: TaperedMarker_geo_MeshPart3
+    400052: TaperedMarker_geo_MeshPart4
+    400054: TaperedMarker_geo_MeshPart5
+    400056: TaperedMarker_geo_MeshPart6
+    400058: TaperedMarker_geo_MeshPart7
+    400060: TaperedMarker_geo_MeshPart8
+    400062: TaperedMarker_geo_MeshPart9
+    400064: Waveform_geo
+    2300000: CoarseBristles_geo
+    2300002: DoubleTaperedMarker_geo_MeshPart0
+    2300004: DoubleTaperedMarker_geo_MeshPart1
+    2300006: Electricity_geo
+    2300008: Fire_geo
+    2300010: Highlighter_geo
+    2300012: HyperGrid_geo_MeshPart0
+    2300014: HyperGrid_geo_MeshPart1
+    2300016: Light_geo
+    2300018: Marker_geo
+    2300020: NeonPulse_geo
+    2300022: SoftHighlighter_geo_MeshPart0
+    2300024: SoftHighlighter_geo_MeshPart1
+    2300026: Splatter_geo_MeshPart0
+    2300028: Splatter_geo_MeshPart1
+    2300030: Streamers_geo
+    2300032: TaperedMarker_geo_MeshPart0
+    2300034: TaperedMarker_geo_MeshPart1
+    2300036: TaperedMarker_geo_MeshPart2
+    2300038: TaperedMarker_geo_MeshPart3
+    2300040: TaperedMarker_geo_MeshPart4
+    2300042: TaperedMarker_geo_MeshPart5
+    2300044: TaperedMarker_geo_MeshPart6
+    2300046: TaperedMarker_geo_MeshPart7
+    2300048: TaperedMarker_geo_MeshPart8
+    2300050: TaperedMarker_geo_MeshPart9
+    2300052: Waveform_geo
+    3300000: CoarseBristles_geo
+    3300002: DoubleTaperedMarker_geo_MeshPart0
+    3300004: DoubleTaperedMarker_geo_MeshPart1
+    3300006: Electricity_geo
+    3300008: Fire_geo
+    3300010: Highlighter_geo
+    3300012: HyperGrid_geo_MeshPart0
+    3300014: HyperGrid_geo_MeshPart1
+    3300016: Light_geo
+    3300018: Marker_geo
+    3300020: NeonPulse_geo
+    3300022: SoftHighlighter_geo_MeshPart0
+    3300024: SoftHighlighter_geo_MeshPart1
+    3300026: Splatter_geo_MeshPart0
+    3300028: Splatter_geo_MeshPart1
+    3300030: Streamers_geo
+    3300032: TaperedMarker_geo_MeshPart0
+    3300034: TaperedMarker_geo_MeshPart1
+    3300036: TaperedMarker_geo_MeshPart2
+    3300038: TaperedMarker_geo_MeshPart3
+    3300040: TaperedMarker_geo_MeshPart4
+    3300042: TaperedMarker_geo_MeshPart5
+    3300044: TaperedMarker_geo_MeshPart6
+    3300046: TaperedMarker_geo_MeshPart7
+    3300048: TaperedMarker_geo_MeshPart8
+    3300050: TaperedMarker_geo_MeshPart9
+    3300052: Waveform_geo
+    4300000: TaperedMarker_geo_MeshPart0
+    4300002: TaperedMarker_geo_MeshPart1
+    4300004: TaperedMarker_geo_MeshPart2
+    4300006: TaperedMarker_geo_MeshPart3
+    4300008: TaperedMarker_geo_MeshPart4
+    4300010: TaperedMarker_geo_MeshPart5
+    4300012: TaperedMarker_geo_MeshPart6
+    4300014: TaperedMarker_geo_MeshPart7
+    4300016: TaperedMarker_geo_MeshPart8
+    4300018: TaperedMarker_geo_MeshPart9
+    4300020: SoftHighlighter_geo_MeshPart0
+    4300022: SoftHighlighter_geo_MeshPart1
+    4300024: Electricity_geo
+    4300026: DoubleTaperedMarker_geo_MeshPart0
+    4300028: DoubleTaperedMarker_geo_MeshPart1
+    4300030: Highlighter_geo
+    4300032: Fire_geo
+    4300034: Streamers_geo
+    4300036: HyperGrid_geo_MeshPart0
+    4300038: HyperGrid_geo_MeshPart1
+    4300040: Light_geo
+    4300042: CoarseBristles_geo
+    4300044: NeonPulse_geo
+    4300046: Splatter_geo_MeshPart0
+    4300048: Splatter_geo_MeshPart1
+    4300050: Waveform_geo
+    4300052: Marker_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

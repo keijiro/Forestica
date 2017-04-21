@@ -1,0 +1,11 @@
+/Assets/Forestica/source/*.fbx
+/Assets/Forestica/textures/*.png
+
+*.swp
+
+/Library/
+/Temp/
+
+.DS_Store
+Thumbs.db
+Desktop.ini
