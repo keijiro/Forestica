@@ -10,7 +10,7 @@ The original scene files of [Forestica] are shared under the
 [Creative Commons Attribution 4.0 International License][CC].
 
 This setup was made for testing the effects of the [Post-processing Stack].
-The scene looks like the following image without the effects.
+The scene looks like the following image when without post-processing.
 
 ![without post fx](http://i.imgur.com/6ypOEoL.png)
 
@@ -24,11 +24,11 @@ How to Set Up
 -------------
 
 This repository doesn't contain the original scene files. They have to be
-downloaded separately. After downloading the files, copy them in the following
-steps.
+downloaded separately. After downloading the files, copy them into the project
+with the following steps.
 
 - Copy the fbx file into `Assets/Forestica/source`.
 - Copy the png files into `Assets/Forestica/textures`.
 
 It's recommended to copy these files before opening the project for the first
-time because Unity will remove .meta files if the asset files are missing.
+time because Unity will remove .meta files when asset files are missing.
