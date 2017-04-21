@@ -1,24 +1,34 @@
 Forestica
 =========
 
+![screenshot](http://i.imgur.com/xo4mYAg.png)
+
 **[Forestica]** is a Tilt Brush scene drawn by [George Peaslee]. This
-repository contains a setup for rendering it with [Unity].
+repository contains a setup for rendering the scene with [Unity].
 
-[Forestica] is shared under the [Attribution 4.0 International License][CC].
+The original scene files of [Forestica] are shared under the
+[Creative Commons Attribution 4.0 International License][CC].
 
-How to Set Up
--------------
+This setup was made for testing the effects of the [Post-processing Stack].
+The scene looks like the following image without the effects.
 
-This repository doesn't contain the original scene files. They have to be
-downloaded separately. Then copy them in the following steps.
-
-- Copy the fbx file into `Assets/Forestica/source`.
-- Copy the png files into `Assets/Forestica/textures`.
-
-It's recommended to copy these files before opening the project for the first
-time because Unity will remove .meta files if the asset files don't exist.
+![without post fx](http://i.imgur.com/6ypOEoL.png)
 
 [Forestica]: https://sketchfab.com/models/05c0b469befa48aea2a0435a657c95de
 [George Peaslee]: https://sketchfab.com/georgepeaslee
 [Unity]: https://unity3d.com
 [CC]: https://creativecommons.org/licenses/by/4.0/
+[Post-processing Stack]: https://github.com/Unity-Technologies/PostProcessing
+
+How to Set Up
+-------------
+
+This repository doesn't contain the original scene files. They have to be
+downloaded separately. After downloading the files, copy them in the following
+steps.
+
+- Copy the fbx file into `Assets/Forestica/source`.
+- Copy the png files into `Assets/Forestica/textures`.
+
+It's recommended to copy these files before opening the project for the first
+time because Unity will remove .meta files if the asset files are missing.

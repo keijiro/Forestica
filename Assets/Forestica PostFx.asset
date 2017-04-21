@@ -121,10 +121,10 @@ MonoBehaviour:
         neutralWhiteClip: 10
       basic:
         postExposure: 1.25
-        temperature: 14.5
+        temperature: 26.5
         tint: 2.6
         hueShift: 0
-        saturation: 1.479
+        saturation: 1.547
         contrast: 1.103
       channelMixer:
         red: {x: 1, y: 0, z: 0}
@@ -139,8 +139,8 @@ MonoBehaviour:
           offset: {r: 1, g: 1, b: 1, a: 0}
         linear:
           lift: {r: 0.8407907, g: 0.74705404, b: 1, a: -0.037209302}
-          gamma: {r: 0.9928542, g: 0.7476962, b: 1, a: -0.20465116}
-          gain: {r: 0.8287386, g: 1, b: 0.98911273, a: 0.093023255}
+          gamma: {r: 0.800719, g: 0.8971586, b: 1, a: -0.20465116}
+          gain: {r: 1, g: 0.6600456, b: 0.8373486, a: 0.093023255}
       curves:
         master:
           curve:
@@ -307,7 +307,7 @@ MonoBehaviour:
   dithering:
     m_Enabled: 0
   monitors:
-    currentMonitorID: 0
+    currentMonitorID: 1
     refreshOnPlay: 0
     histogramMode: 3
     waveformExposure: 0.12
